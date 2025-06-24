@@ -41,8 +41,8 @@ I'm a passionate **Backend developer** with experience in **Python, SQL, Django,
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**[(your_linkedin_profile_link)](https://linkedin.com/in/obum)
-- **[Twitter]**[(your_twitter_profile_link)](https://x.com/obum6)
+- **[Personal Website / Blog]**[(my_portfolio link)](https://github.com/obum/obum/blob/main/README.md)
+- **[LinkedIn]**[(my linkedin_profile_link)](https://linkedin.com/in/obum)
+- **[Twitter]**[(my_twitter_profile_link)](https://x.com/obum6)
 
 
