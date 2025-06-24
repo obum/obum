@@ -1,7 +1,9 @@
 # Hi there, I'm Obum! 👋
 
 
-![image](https://github.com/user-attachments/assets/90606e4a-6957-4f09-ba24-b642e39d5e36)
+![image](https://github.com/user-attachments/assets/47acdd59-9034-4126-835f-c37a354bb3fe)
+
+
 
 ## About Me 🚀
 
