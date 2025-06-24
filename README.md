@@ -7,13 +7,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Backend developer** with experience in **Python, SQL, Django, Redis, CI/CD**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **CI/CD**
+- 🔭 Working on: **Airbnb Clone Project**
+- 🌍 Languages: **Python | Javacript | SQL | English | Igbo**
+- 📫 How to reach me: **obumanichebe@gmail.com | 09135365724**
+- ⚡ Fun fact: **I am the best footballer (soccer) you have never seen play**
 
 ## My Skills 🧠
 
@@ -42,7 +42,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**[(your_linkedin_profile_link)](https://linkedin.com/in/obum)
+- **[Twitter]**[(your_twitter_profile_link)](https://x.com/obum6)
 
 
