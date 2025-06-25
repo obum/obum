@@ -29,20 +29,18 @@ I'm a passionate **Backend developer** with experience in **Python, SQL, Django,
 
 ## Featured Projects 💻
 
-### Inventory Management System API([project_1_link](https://github.com/obum/Inventory_Management_Sys_API))
+### Inventory Management System API([link](https://github.com/obum/Inventory_Management_Sys_API))
 
 An API to manage inventory for a store where users can add, update, and delete inventory items, and view inventory levels.** built with **Django, Python**. This project demonstrates my ability in **problem solving, creative thinking, Database Design, API building**. You can check out the repository ([here](https://github.com/obum/Inventory_Management_Sys_API))
 
-### [Project 2 Title](project_2_link)
+### [Workout_tracker]([link](https://github.com/obum/Workout_tracker))
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**The workout tracker** is a simple script that **Uses google sheet and an API to track my workout sessions** built with **Python**. This project showcases my skills in **APIs, File systems**. You can check out the repository ([here](https://github.com/obum/Workout_tracker)).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**[(my_portfolio link)](https://github.com/obum/obum/blob/main/README.md)
-- **[LinkedIn]**[(my linkedin_profile_link)](https://linkedin.com/in/obum)
-- **[Twitter]**[(my_twitter_profile_link)](https://x.com/obum6)
+- **[Personal Website / Blog]**(https://github.com/obum/obum/blob/main/README.md)
+- **[LinkedIn]**(https://linkedin.com/in/obum)
+- **[Twitter]**(https://x.com/obum6)
 
 
