@@ -29,11 +29,9 @@ I'm a passionate **Backend developer** with experience in **Python, SQL, Django,
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Inventory Management System API([project_1_link](https://github.com/obum/Inventory_Management_Sys_API))
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Project 1 Title]** is a **an API to manage inventory for a store where users can add, update, and delete inventory items, and view inventory levels.** built with **Django, Python**. This project demonstrates my ability to **problem solving, creative thinking, Database Design, API building **. You can check out the repository [here]([project_1_link](https://github.com/obum/Inventory_Management_Sys_API)).
 
 ### [Project 2 Title](project_2_link)
 
